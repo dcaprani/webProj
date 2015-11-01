@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [jQuery Validation Plugin](http://bassistance.de/jquery-plugins/jquery-plugin-validation/) - Form validation made easy
 ================================
 
@@ -39,3 +40,7 @@ If you've wrote custom methods that you'd like to contribute to additional-metho
 ## License
 Copyright (c) 2013 Jörn Zaefferer
 Licensed under the MIT license.
+=======
+# webProj
+Test static website
+>>>>>>> d7400a2024b95aa95db15dd5532ab7923db494c8
